@@ -110,6 +110,16 @@ DB_PASSWORD= "Password"
 ### Deployment
 
 **Now, it's the very last step**
-Which is to push to your repo and then go to Vercel and press deploy.
+Then you need to push to your repo and then go to Vercel and in settings write in root what the root file is called. Then just press deploy.
+
+This means that you need to:
+
+1. Push your code to your repository.
+2. Go to Vercel.
+3. Go to the settings for your project.
+4. In the "Root" field, enter the name of the file that contains your application's code.
+5. Click "Deploy".
+
+Once you have done this, Vercel will deploy your application.
 
 **Now you have deployed your project!**

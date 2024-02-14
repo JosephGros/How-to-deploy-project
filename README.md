@@ -110,7 +110,14 @@ DB_PASSWORD= "Password"
 ### Deployment
 
 **Nu är det absolut sista steget**
-Vilket då är att pusha till ditt repo och sedan gå in i Vercel och trycka på deploy. 
+Sista steget är att pusha dina ändringar till ditt repo. Gå sedan till Vercel och under inställningarna (settings) ange i fältet 'Root' vad din huvudfil heter. Därefter är det bara att trycka på 'Deploy' så är ditt projekt live!
+
+*Det betyder att du måste:*
+
+1. Sista steget är att pusha dina ändringar till ditt repo.
+2. Gå sedan till Vercel och under settings.
+3. Ange i fältet 'Root' vad din huvudfil heter.
+4. Därefter är det bara att trycka på 'Deploy' så är ditt projekt live!
 
 
 **Nu har du deployed ditt projekt!**
