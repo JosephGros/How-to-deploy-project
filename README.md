@@ -1,5 +1,6 @@
 # Hur gör man en Deploy
 
+- [Länk till Engelsk version](README(EN).md)
 
 ### Man ska börja med att skapa konton på Vercel och Aiven
 
